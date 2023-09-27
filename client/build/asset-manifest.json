@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08838b93.css",
+    "main.js": "/static/js/main.c19285ef.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Dilaxshan.pdf": "/static/media/Dilaxshan.dcede8bb6eef6f53f019.pdf",
+    "static/media/profile.jpg": "/static/media/profile.a9d985a67c299ffeb50d.jpg",
+    "index.html": "/index.html",
+    "main.08838b93.css.map": "/static/css/main.08838b93.css.map",
+    "main.c19285ef.js.map": "/static/js/main.c19285ef.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08838b93.css",
+    "static/js/main.c19285ef.js"
+  ]
+}
